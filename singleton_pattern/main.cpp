@@ -17,7 +17,7 @@ class singleton{
         }
 };
 
-singleton *singleton::instance = 0;
+singleton *singleton::instance = nullptr;
 
 int main(){
     singleton* s1=singleton::getInstance();

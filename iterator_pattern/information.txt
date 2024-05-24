@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/51245743/invalid-use-of-incomplete-type-circular-dependency-c/51245783#51245783
