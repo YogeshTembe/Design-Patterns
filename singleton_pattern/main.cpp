@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//Real world example = logProcessor in our project, there should only one instance of logProcessor.
 class singleton{
     private: 
         static singleton* instance;  
